@@ -1,0 +1,80 @@
+/*
+*designed and developed 
+*   by Soravath Mengseng
+*/
+
+html{
+  margin: 0;  
+}
+
+body{
+  margin: 0;
+  background-color: darkgray;
+}
+
+h1{
+    color: white;
+    background: steelblue;
+    text-transform: uppercase;
+    margin: 0;    
+    padding: 40px 0;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    letter-spacing: 5px;
+    
+}
+
+img{
+/*    border: 1px solid black;*/
+    width: 300px;
+    height: 300px;
+    
+}
+
+ul {
+  list-style-type: none;
+}
+
+#stripe{
+    background: white;
+    height: 50px;
+    text-align: center;    
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+   
+}
+
+#picture{
+    text-align: center;
+    padding: 10px 0;
+}
+
+button{
+    border: none;
+    background: none;
+    font-weight: 700;
+    height: 100%;
+    font-size: inherit;    
+    
+    
+}
+
+button:hover{
+    color: white;
+    background: steelblue;
+}
+
+.container{
+    text-align: center;
+    
+}
+li{
+    padding: 5px 0;
+    height: 100%;
+    font-size: 30px;
+}
+
+li:hover{
+    color: white;
+    background: darkgray;
+}
